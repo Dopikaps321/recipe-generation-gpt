@@ -1,0 +1,9 @@
+recipe_model/
+__pycache__/
+*.pt
+*.bin
+*.h5
+*.pkl
+*.csv
+*.txt
+*.log
